@@ -66,20 +66,6 @@ body {
     align-items: center;
     justify-content: center;
 }
-.section3 {
-    height: 600px;
-    width: 200px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.section3 h2 {
-    
-    font-size: 40px;
-}
-
 
 .header {
     
